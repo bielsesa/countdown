@@ -16,7 +16,7 @@ html, body {
 
 body {
   align-items: center;
-  background-color: #ffd54f;
+  background-color: #61764B;
   display: flex;
   font-family: -apple-system, 
     BlinkMacSystemFont, 
@@ -30,7 +30,7 @@ body {
 }
 
 .container {
-  color: #333;
+  color: #FAD6A5;
   margin: 0 auto;
   text-align: center;
 }
